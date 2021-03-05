@@ -1,4 +1,4 @@
-### uge9_exercises
+### exercises with String
 Exercises for week 9
 
 Opgaverne tager udgangspunkt i StringWorks projektet som vi startede op i tirsdagens lektion. Her loadede vi noget tekst og lagde det ind i en datafil.
