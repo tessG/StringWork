@@ -1,5 +1,5 @@
-### uge9_exercises
-Exercises for week 9
+### exercises with String
+
 
 Opgaverne tager udgangspunkt i StringWorks projektet som vi startede op i tirsdagens lektion. Her loadede vi noget tekst og lagde det ind i en datafil.
 Herefter byggede vi nogle metoder der foretog forskellige analyser på teksten. Så start med at finde projektet frem hente det ned fra dette repository.
